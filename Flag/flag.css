@@ -1,0 +1,39 @@
+.container{
+    height:250px;
+    width: 500px;
+    background-color: rgb(27, 212, 27);
+    /* border: 2px solid black; */
+    /* position: static;*/
+    position:relative; 
+    left: 50%;
+    top: 40%;
+    transform: translate(-50%);
+}
+.Circle{
+    height: 180px;
+    width: 180px;
+    background-color: red;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    border-radius: 50%;
+}
+.handle{
+    height: 250px;
+    width: 30px;
+    background-color: black;
+    position: relative;
+    top: 90%;
+    border-top-right-radius: 20px;
+
+}
+.foter{
+    height: 50px;
+    width: 80px;
+    background-color: black;
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    transform: translate(-50%);
+}
