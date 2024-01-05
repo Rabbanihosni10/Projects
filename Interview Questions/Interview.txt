@@ -1,0 +1,14 @@
+Question Series 1-->
+১) What Is Git? What Are The Advantages Of Using Git?
+২) What Do You Understand By The Term ‘Version Control System’?
+৩) What’s The Difference Between Git And GitHub?
+৪) Name A Few Git Commands With Their Function.
+৫) Difference Between Git Fetch And Git Pull.
+
+Question series 2-->
+১) What Do You Understand By The Universal Sector?
+২) Differentiate Between The Use Of ID Selector And Class Selector.
+৩) How Can You Use CSS To Control Image Repetition?
+৪) Are The HTML Tags And Elements The Same Thing?
+৫) Difference Between Inline, Block, And Inline-Block Elements. Is It Possible To Change An Inline Element Into A Block-Level Element?
+
